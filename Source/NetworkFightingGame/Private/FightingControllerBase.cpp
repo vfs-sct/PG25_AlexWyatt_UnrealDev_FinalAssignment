@@ -71,7 +71,7 @@ void AFightingControllerBase::HorizontalMove(const FInputActionValue& Value)
 	ACharacter* possesedCharacter = GetCharacter();
 	if (IsValid(possesedCharacter))
 	{
-		possesedCharacter->AddMovementInput(FVector{-1.0f,0.0f,0.0f}, horizontalAxisValue);
+		possesedCharacter->AddMovementInput(FVector{0.0f,1.0f,0.0f}, horizontalAxisValue);
 	}
 }
 

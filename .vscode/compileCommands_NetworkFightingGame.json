@@ -224,7 +224,7 @@
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\A3\\Source\\NetworkFightingGame\\Public\\MyFightingGameModeBase.h",
+		"file": "C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\A3\\Source\\NetworkFightingGame\\Public\\SpaceInvaderGameMode.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
 			"@C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\A3\\.vscode\\compileCommands_NetworkFightingGame\\NetworkFightingGame.1.rsp"

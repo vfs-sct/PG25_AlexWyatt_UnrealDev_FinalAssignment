@@ -14,4 +14,7 @@ class NETWORKFIGHTINGGAME_API ASpaceInvaderGameMode : public AFightingGameModeBa
 {
 	GENERATED_BODY()
 	
+public:
+
+	ASpaceInvaderGameMode(const FObjectInitializer& ObjectInitializer); 
 };
