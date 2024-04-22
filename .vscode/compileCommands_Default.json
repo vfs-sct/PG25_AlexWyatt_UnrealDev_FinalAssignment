@@ -1,0 +1,234 @@
+[
+	{
+		"file": "C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\Source\\NetworkFightingGame\\NetworkFightingGame.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\.vscode\\compileCommands_Default\\NetworkFightingGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\Source\\NetworkFightingGame\\NetworkFightingGame.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\.vscode\\compileCommands_Default\\NetworkFightingGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\Source\\NetworkFightingGame\\NetworkFightingGame.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\.vscode\\compileCommands_Default\\NetworkFightingGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\Source\\NetworkFightingGame\\Private\\FightingCameraManager.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\.vscode\\compileCommands_Default\\NetworkFightingGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\Source\\NetworkFightingGame\\Private\\FightingCharacterBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\.vscode\\compileCommands_Default\\NetworkFightingGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\Source\\NetworkFightingGame\\Private\\FightingControllerBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\.vscode\\compileCommands_Default\\NetworkFightingGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\Source\\NetworkFightingGame\\Private\\FightingGameHUDBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\.vscode\\compileCommands_Default\\NetworkFightingGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\Source\\NetworkFightingGame\\Private\\FightingGameInstanceBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\.vscode\\compileCommands_Default\\NetworkFightingGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\Source\\NetworkFightingGame\\Private\\FightingGameLibraray.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\.vscode\\compileCommands_Default\\NetworkFightingGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\Source\\NetworkFightingGame\\Private\\FightingGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\.vscode\\compileCommands_Default\\NetworkFightingGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\Source\\NetworkFightingGame\\Private\\FightingGameStateBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\.vscode\\compileCommands_Default\\NetworkFightingGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\Source\\NetworkFightingGame\\Private\\FightingPlayerState.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\.vscode\\compileCommands_Default\\NetworkFightingGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\Source\\NetworkFightingGame\\Private\\HealthComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\.vscode\\compileCommands_Default\\NetworkFightingGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\Source\\NetworkFightingGame\\Private\\UI\\CharacterSelectionScreen.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\.vscode\\compileCommands_Default\\NetworkFightingGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\Source\\NetworkFightingGame\\Private\\UI\\HealthBarWidget.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\.vscode\\compileCommands_Default\\NetworkFightingGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\Source\\NetworkFightingGame\\Private\\UI\\PlayerHUD.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\.vscode\\compileCommands_Default\\NetworkFightingGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\Source\\NetworkFightingGame\\Public\\FightingCameraManager.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\.vscode\\compileCommands_Default\\NetworkFightingGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\Source\\NetworkFightingGame\\Public\\FightingCharacterBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\.vscode\\compileCommands_Default\\NetworkFightingGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\Source\\NetworkFightingGame\\Public\\FightingControllerBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\.vscode\\compileCommands_Default\\NetworkFightingGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\Source\\NetworkFightingGame\\Public\\FightingGameHUDBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\.vscode\\compileCommands_Default\\NetworkFightingGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\Source\\NetworkFightingGame\\Public\\FightingGameInstanceBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\.vscode\\compileCommands_Default\\NetworkFightingGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\Source\\NetworkFightingGame\\Public\\FightingGameLibraray.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\.vscode\\compileCommands_Default\\NetworkFightingGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\Source\\NetworkFightingGame\\Public\\FightingGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\.vscode\\compileCommands_Default\\NetworkFightingGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\Source\\NetworkFightingGame\\Public\\FightingGameStateBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\.vscode\\compileCommands_Default\\NetworkFightingGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\Source\\NetworkFightingGame\\Public\\FightingPlayerState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\.vscode\\compileCommands_Default\\NetworkFightingGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\Source\\NetworkFightingGame\\Public\\HealthComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\.vscode\\compileCommands_Default\\NetworkFightingGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\Source\\NetworkFightingGame\\Public\\UI\\CharacterSelectionScreen.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\.vscode\\compileCommands_Default\\NetworkFightingGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\Source\\NetworkFightingGame\\Public\\UI\\HealthBarWidget.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\.vscode\\compileCommands_Default\\NetworkFightingGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\Source\\NetworkFightingGame\\Public\\UI\\PlayerHUD.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\alexb\\Desktop\\Repos\\..Term4\\Unreal Development C++\\FinalAssignment\\.vscode\\compileCommands_Default\\NetworkFightingGame.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]
